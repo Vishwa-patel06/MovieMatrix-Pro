@@ -4,7 +4,7 @@ An interactive, machine learning-based movie analytics and recommendation projec
 
 ## 🚀 Live Demo
 
-**Try the application:** 
+**Try the application:** https://moviematrix-pro-vishwa.streamlit.app/
 
 ## 📌 Project Overview
 
